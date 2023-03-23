@@ -1,0 +1,54 @@
+.header-rland-box{
+     background-image: url(../images/9.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     background-color: black;
+
+}
+
+.header{
+    color: white;
+    height: 100px;
+}
+
+
+.rland{
+    color: white;
+    height: 900px;
+   
+    background-size: cover;   
+}
+
+
+.info{
+    /* background-image: linear-gradient(45deg, red 20%, green 20% 70%, blue 70% 100%); */
+    background-color: black;
+    color: white;
+    height: 1200px;
+}
+
+.place{
+    background-color:deeppink;
+    color: white;
+    height: 400px;
+    background-image: url(../images/b14.jpg);
+    background-size: cover;
+}
+
+
+.footer{
+    background-color: orange;
+    color: white;
+    height: 100px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+img{
+    width: 300px;
+}
